@@ -1,5 +1,6 @@
 {
   "name": "@types/react",
+  "version": "0.0.0",
   "dependencies": {
     "csstype": "^2.2.0"
   }
